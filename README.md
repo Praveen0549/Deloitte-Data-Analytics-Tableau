@@ -1,4 +1,3 @@
-# Deloitte-Data-Analytics-Tableau
 # Deloitte Data Analytics Job Simulation – Tableau
 
 ## Project Overview
@@ -18,5 +17,4 @@ This project analyzes machine telemetry data for Daikibo, a manufacturing compan
 - Specific machine types contribute most to failures
 - Interactive dashboard helps identify problem areas quickly
 
-## Dashboard
-(Upload screenshots here)
+
